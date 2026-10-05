@@ -63,4 +63,5 @@ ML_Assignment/
 │   └── IMT2023555_test_var2.csv
 └── figures/
     ├── SVG figures
-    └── PNG figures ```
+    └── PNG figures
+```
