@@ -103,5 +103,4 @@ ML_Assignment/
 │   ├── IMT2023555_train_var2.csv
 │   └── IMT2023555_test_var2.csv
 └── figures/
-    ├── PNG figures
-    └── SVG figures
+    └── Figures used in the report
